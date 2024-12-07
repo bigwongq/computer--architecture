@@ -28,6 +28,8 @@ graph LR
 ##  Programmable computers
 
 > ### What is programmable computers
+
+
 * Programming is putting instructions together meaningfully
 
 *  Programmable computer can execute instructions
@@ -42,6 +44,8 @@ graph LR
 
 
 > #### Programmability
+
+
 * Degree of how a system can be programmed
 
 * Low programmability
@@ -53,11 +57,15 @@ graph LR
     *  Modern desktop computers, smartphones and tablets
 
 >### How to achieve high programmability?
+
+
 * A large amount of instructions available
 *  A high flexibility to compose and sequence the instructions
 * Short time and little effort to re-program a system
 
 >### What is programmable computers
+
+
  * Programming is putting instructions together meaningfully
  * Programmable computer can execute instructions
     *  Instead of executing a fixed process
@@ -101,9 +109,12 @@ graph LR
     * Data that a computer sends
 
 >### Be a useful computing process
+
+
  * MUST include input and output for interacting with the outside world
 
 >### Major components of a programmable computer
+
 
  * Arithmetic and Logic Unit (ALU)
     * For instruction execution
@@ -115,6 +126,8 @@ graph LR
     * For data output from the programmable computer
 
 >### Arithmetic and Logic Unit (ALU)
+
+
  * Functional unit for instruction execution
     * ALU accepts data and instructions
     * ALU produces data output which is a result of instruction execution
@@ -131,6 +144,8 @@ graph LR
     * A clock signal is provided to control when operations take place
 
 >### Memory
+
+
  * Functions of memory
     * Retrieve data (Read)
     * Store data (Write)
